@@ -1,2 +1,2 @@
 # BoF
-Some basics Buffer Overflow exercices
+Some very basics Buffer Overflow exercices
